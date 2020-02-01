@@ -1,3 +1,4 @@
 NPM  : 1506757762
 Nama : Ichsandy Rizki
 Jurusan : Sistem Informasi
+Angkatan: 2015
